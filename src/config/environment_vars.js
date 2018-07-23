@@ -10,6 +10,8 @@ vars = {
   PORT: 3001,
   DEFAULT_SOURCE: 's3',
   EXCLUDE_SOURCES: null, // add comma delimited list
+  
+  GENERIC_WEB_URL:null,
 
   // Restrict to named modifiers strings only
   NAMED_MODIFIERS_ONLY: false,
